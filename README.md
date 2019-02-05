@@ -1,4 +1,5 @@
 # terraform example
+- playing around with terraform and aws (ec2, s3,..)
 
 ```sh
 terraform workspace new dev		# init workspace
